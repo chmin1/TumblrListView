@@ -248,6 +248,7 @@
 				TargetAttributes = {
 					F9FCB5BB1EFAE57E005EDAE5 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 8X82DZHRTK;
 						ProvisioningStyle = Automatic;
 					};
 					F9FCB5CF1EFAE57E005EDAE5 = {
@@ -608,6 +609,7 @@
 			baseConfigurationReference = EF1D69C354D0BB3EF4667E03 /* Pods-TumblrView.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8X82DZHRTK;
 				INFOPLIST_FILE = TumblrView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Chavane.TumblrView;
@@ -621,6 +623,7 @@
 			baseConfigurationReference = 5D289CDE292BFB83EB87F828 /* Pods-TumblrView.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8X82DZHRTK;
 				INFOPLIST_FILE = TumblrView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Chavane.TumblrView;
