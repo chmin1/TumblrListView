@@ -17,6 +17,7 @@
 		F9FCB5E01EFAE57E005EDAE5 /* TumblrViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FCB5DF1EFAE57E005EDAE5 /* TumblrViewUITests.swift */; };
 		F9FCB5EE1EFAF013005EDAE5 /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FCB5ED1EFAF013005EDAE5 /* PhotosViewController.swift */; };
 		F9FCB5F01EFAF63A005EDAE5 /* PhotoCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FCB5EF1EFAF63A005EDAE5 /* PhotoCellTableViewCell.swift */; };
+		F9FCB6301EFC48FF005EDAE5 /* PhotoDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FCB62F1EFC48FF005EDAE5 /* PhotoDetailsViewController.swift */; };
 		FCF5E8BF761391C1D8822DBC /* Pods_TumblrViewTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2AE99C112E3D3B6ABDA4CA75 /* Pods_TumblrViewTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -61,6 +62,7 @@
 		F9FCB5E11EFAE57E005EDAE5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F9FCB5ED1EFAF013005EDAE5 /* PhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
 		F9FCB5EF1EFAF63A005EDAE5 /* PhotoCellTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoCellTableViewCell.swift; sourceTree = "<group>"; };
+		F9FCB62F1EFC48FF005EDAE5 /* PhotoDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,9 +142,10 @@
 			isa = PBXGroup;
 			children = (
 				F9FCB5BF1EFAE57E005EDAE5 /* AppDelegate.swift */,
-				F9FCB5C31EFAE57E005EDAE5 /* Main.storyboard */,
 				F9FCB5EF1EFAF63A005EDAE5 /* PhotoCellTableViewCell.swift */,
 				F9FCB5ED1EFAF013005EDAE5 /* PhotosViewController.swift */,
+				F9FCB62F1EFC48FF005EDAE5 /* PhotoDetailsViewController.swift */,
+				F9FCB5C31EFAE57E005EDAE5 /* Main.storyboard */,
 				F9FCB5C61EFAE57E005EDAE5 /* Assets.xcassets */,
 				F9FCB5C81EFAE57E005EDAE5 /* LaunchScreen.storyboard */,
 				F9FCB5CB1EFAE57E005EDAE5 /* Info.plist */,
@@ -449,6 +452,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F9FCB6301EFC48FF005EDAE5 /* PhotoDetailsViewController.swift in Sources */,
 				F9FCB5EE1EFAF013005EDAE5 /* PhotosViewController.swift in Sources */,
 				F9FCB5F01EFAF63A005EDAE5 /* PhotoCellTableViewCell.swift in Sources */,
 				F9FCB5C01EFAE57E005EDAE5 /* AppDelegate.swift in Sources */,
